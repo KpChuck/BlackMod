@@ -1,0 +1,10 @@
+<resources>
+    <string name="ThemeName">Black Theme</string>
+    <string name="ThemeAuthor">KpChuck</string>
+    <string-array name="ThemeChangelog">
+       <item>Made BlackTheme compatible with latest Oos 4.1.6</item>
+        <item>Fixed InCallUI notification background</item>
+        <item>Removed InCallUI notification text color (Default white anyway)</item>
+        <item>Let me know if you have any issues!</item>
+    </string-array>
+</resources>

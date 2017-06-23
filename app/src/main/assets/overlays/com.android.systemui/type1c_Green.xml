@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="qs_theme_color_black">
+        <item>#ff0dff0d</item>
+        <item>#ff00ff00</item>
+        <item>#ff00f200</item>
+        <item>#ff0dff0d</item>
+        <item>@*com.android.systemui:color/op_user_icon_8</item>
+        <item>#ff202020</item>
+        <item>#ff0dff0d</item>
+        <item>#00ffffff</item>
+        <item>#42ffffff</item>
+        <item>#ffffffff</item>
+        <item>#ffffffff</item>
+        <item>#ff0dff0d</item>
+        <item>#ff1d1d1d</item>
+        <item>#ddffffff</item>
+        <item>#e600ff00</item>
+        <item>#ff616161</item>
+        <item>#19ffffff</item>
+        <item>#ffbdbdbd</item>
+        <item>#4cffffff</item>
+    </array>
+
+</resources>

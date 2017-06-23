@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ActionBar Text Color -->
+    <color name="notification_default_color">#ff00ff00</color>
+
+    <!-- Normal  Title Text Color ?? -->
+    <color name="notification_icon_default_color">#ff00ff00</color>
+
+    <!-- System Text Color -->
+    <color name="system_notification_accent_color">#ff00ff00</color>
+
+
+    <color name="notification_material_background_color">#ffffffff</color>
+
+</resources>
